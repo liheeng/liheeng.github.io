@@ -8,6 +8,12 @@ tags: [markdown, markmap, vditor, lute, mindmaps]
 summary: This page records some frameworks or project for usage or creating markdown App.
 ---
 ## Resources
+
+### Markdown Spec
+CommonMark: [https://commonmark.org/?utm_source=ld246.com](https://commonmark.org/?utm_source=ld246.com)
+<iframe src="https://commonmark.org/?utm_source=ld246.com" width="800" height="600"></iframe>
+
+
 ### Framework
 #### Vditor
 A web based markdown editor, support WYSIWYG, like Typora
